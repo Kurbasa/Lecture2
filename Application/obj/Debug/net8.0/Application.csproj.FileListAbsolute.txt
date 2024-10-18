@@ -1,0 +1,15 @@
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\bin\Debug\net8.0\Application.deps.json
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\bin\Debug\net8.0\Application.dll
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\bin\Debug\net8.0\Application.pdb
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\bin\Debug\net8.0\Domain.dll
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\bin\Debug\net8.0\Domain.pdb
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Application.dll
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\refint\Application.dll
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\Application.pdb
+D:\c#\Rest-Api\DotNet-RestApi-Ccharp-main\Lecture2\Application\obj\Debug\net8.0\ref\Application.dll
